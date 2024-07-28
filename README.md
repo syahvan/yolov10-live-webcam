@@ -1,1 +1,1 @@
-# yolov10-live-webcam
+# YOLOv10 on Live Webcam
